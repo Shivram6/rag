@@ -1,0 +1,70 @@
+JP Solutions – Employee & Organizational Knowledge Base Document
+Version: 4.0 Last Updated: February 24, 2026
+
+1.  Company Overview and Official Information JP Solutions, founded in
+    2010 and headquartered in Bangalore, India, is a pioneer in online
+    test assessment software development. Led by CEO Sam, the
+    organization employs over 1,000+ professionals across engineering,
+    artificial intelligence, product development, human resources,
+    compliance, sales, and operations. The official registered name of
+    the company is JP Solutions Pvt. Ltd., and this name must be used in
+    all legal, contractual, and financial documentation.
+
+2.  Leave Application Procedure and Permission Policy Employees must
+    apply for leave through the official HRMS portal at least two
+    working days in advance for planned leave. Emergency leave requires
+    prior notification to the reporting manager via official company
+    email before HRMS submission. The maximum short-term permission
+    allowed during working hours is two hours per instance and should
+    not exceed four instances per month, subject to managerial approval.
+    All leave and permissions must be recorded in the HRMS system for
+    payroll and attendance tracking.
+
+3.  Employee Loan and Salary Advance Eligibility Full-time employees who
+    have completed a minimum of one year of continuous service are
+    eligible to apply for internal loans or salary advances. Requests
+    are reviewed by the HR and Finance departments. Approved loans are
+    repaid through structured monthly payroll deductions. Emergency
+    salary advances may be granted under exceptional circumstances with
+    leadership approval.
+
+4.  Official Email and Communication Procedures All official
+    communication must be conducted through the company-provided email
+    ID in the format firstname.lastname@jpsolutions.com. Professional
+    standards, clear subject lines, and official signatures are
+    mandatory. Escalation hierarchy follows: Employee → Reporting
+    Manager → Department Head → HR or Executive Leadership. Sensitive
+    data such as assessment content or candidate information must not be
+    shared via personal email or unsecured platforms.
+
+5.  Working Hours and Attendance Policy Standard working hours are 9:30
+    AM to 6:30 PM, Monday through Friday. Attendance is tracked through
+    secure login or biometric systems. Remote and hybrid employees must
+    connect via secure VPN access. Monthly attendance compliance is
+    monitored by HR in accordance with company guidelines and Karnataka
+    labor regulations.
+
+6.  Employee Benefits and Welfare Programs JP Solutions provides
+    comprehensive health insurance, accident coverage, paid time off,
+    maternity and paternity benefits, and performance-based bonuses. The
+    company supports professional development through certification
+    reimbursements, internal training programs, leadership development
+    initiatives, and technical upskilling workshops.
+
+7.  Privacy, Security, and Regulatory Compliance JP Solutions processes
+    candidate data, assessment results, AI proctoring recordings, and
+    client information through secure cloud infrastructure. The company
+    complies with Indian IT laws, applicable data protection
+    regulations, and international standards such as GDPR where
+    relevant. Security controls include encryption, multi-factor
+    authentication, role-based access control, and periodic security
+    audits.
+
+8.  Metadata Framework for RAG-Based Company Bot All organizational
+    documents follow a standardized metadata structure including
+    Document ID, Department, Policy Category, Version, Effective Date,
+    Review Date, Access Level, Tags, and Jurisdiction. Content is
+    semantically structured to enable efficient chunking and embedding
+    generation for accurate Retrieval-Augmented Generation (RAG)
+    responses. Version control ensures the chatbot retrieves the most
+    current approved policy information in real time.
