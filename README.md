@@ -1,0 +1,3 @@
+This RAG application is built around a three-stage pipeline consisting of a setup file, an ingestion file, and a main execution file. 
+The core objective is to construct a complete RAG pipeline that uses Pinecone as a vector database to store and retrieve indices of an external document.
+The FastAPI backend logic is implemented in app.py to handle incoming user queries. Input validation is enforced using Pydantic's BaseModel, ensuring only well-formed requests are processed. A simple in-memory cache is also integrated to return answers instantly when the same question is asked again — avoiding redundant calls to the vector database and the language model.
